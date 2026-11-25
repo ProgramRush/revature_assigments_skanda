@@ -1,0 +1,19 @@
+# Compiled Java classes and archives
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# Eclipse / Spring Tool Suite (STS) local JRE & metadata
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
